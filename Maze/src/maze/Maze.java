@@ -95,7 +95,7 @@ public class Maze {
         newNode.setHurstec(Math.abs(newNode.row - finalI) + Math.abs(newNode.clum - finalJ));
         newNode.addCost(); // hurstic + cost 
         
-        pQueue.add(newNode); // add the move to the PQ 
+        pQueue.add(newNode); // add the move to the PQ klhkjkjb
 
     }
 }
